@@ -1,0 +1,8 @@
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\obj\Debug\WindsorExample.csprojResolveAssemblyReference.cache
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\bin\Debug\WindsorExample.pdb
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\bin\Debug\Castle.Core.dll
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\bin\Debug\Castle.Core.xml
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\obj\Debug\WindsorExample.pdb
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\bin\Debug\WindsorExample.exe
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\obj\Debug\WindsorExample.exe
+C:\Learn\CastleWindsor\WindsorExample\WindsorExample\bin\Debug\WindsorExample.exe.config
